@@ -1,0 +1,8 @@
+## CLIP 1 -- CSS Link
+<link rel="stylesheet" type="text/css" href="..\css\styles.css">
+
+## CLIP 2 -- JS Link
+<script src="..\javascript\my-first-javascript.js" type="text/javascript"></script>
+
+## CLIP 3 -- JS Set Background Color
+document.body.style.backgroundColor = "blue"
